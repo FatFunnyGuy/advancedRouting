@@ -1,6 +1,6 @@
 ## How to use the downloaded files
 
-Run `npm install` in the extracted folder
+Run `npm install` in the extracted folder<br>
 Run `npm start` to view the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
